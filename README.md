@@ -46,4 +46,10 @@ The public launch kit for the Decider channel: how we describe it, and the mater
 directories and communities (`launch/`). It is not the product source and contains no user data — every example
 referenced here was authored by us and recorded from real runs.
 
+## Elsewhere
+
+- Written up on dev.to: [The confidence number is the product (and here is ours, with the caveat)](https://dev.to/turingcorp/the-confidence-number-is-the-product-and-here-is-ours-with-the-caveat-4mmk)
+- The 27 recorded examples as data: [poe-demo-public](https://github.com/TuringCorp-net/poe-demo-public)
+- Raw benchmark results and per-criterion judgments: [turingcorp-llm](https://github.com/TuringCorp-net/turingcorp-llm)
+
 Contact: iAsk@turingcorp.net
